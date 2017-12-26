@@ -6,4 +6,5 @@ for i in data:
     else: val[i] = True
 
 for key in val:
-    return key
+    print key
+    break
